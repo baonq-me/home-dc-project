@@ -28,3 +28,4 @@ My Home DC project
 
 
 ## Long term
+- Fire control and Power safety ?
