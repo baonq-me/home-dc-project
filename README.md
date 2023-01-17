@@ -22,6 +22,10 @@ My Home DC project
 - VPN Infrastructure
   - [x] Tailscale
   - [ ] Backup VPN route
+- Setting up UPS
+  - Gracefully shutdown servers when power is down
+  - Be able to start servers again manually after power down
+
 
 ## Mid term
 - Temperature and humidity monitoring
