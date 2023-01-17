@@ -24,7 +24,7 @@ My Home DC project
 
 ## Mid term
 - Temperature and humidity monitoring
-
+- Tailscale VPN using a single board computer (Orange Pi ?)
 
 
 ## Long term
