@@ -35,3 +35,7 @@ My Home DC project
 
 ## Long term
 - Fire control and Power safety ?
+
+## Pictures
+
+![](rack1.jpg)
