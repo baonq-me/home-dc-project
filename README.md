@@ -6,6 +6,7 @@ My Home DC project
 - Buy servers:
   - [x] HP DL360p G8
   - [x] HP DL380p G8
+    - [x] Full 12 hard disk drives  
   - [x] HP DL360p G9
 - Buy a rack
   - [x] Rack 20U D1000
@@ -24,6 +25,7 @@ My Home DC project
 
 ## Mid term
 - Temperature and humidity monitoring
+- Noise monitoring
 - Tailscale VPN using a single board computer (Orange Pi ?)
 
 
