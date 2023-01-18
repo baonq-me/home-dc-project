@@ -12,13 +12,12 @@ My Home DC project
   - [x] Rack 20U D1000
   - [x] 1x Fixed shelf tray
   - [x] 1x Sliding shelf tray
-- Switch
-  - [x] 1x 8 ports Gigabit switch
-  - [x] 1x 4 ports 100Mbps switch (for iLO)
 - Power
   - [x] Basic strip power outlet with 16A CB
 - Fan
-  - Need two quite fans + powering solution
+  - Need two quite fans (Noctua ?) + powering solution
+- Switch
+  - [x] TP-Link TL-SG108 (8-ports Gigabit switch)
 - VPN Infrastructure
   - [x] Tailscale
   - [ ] Backup VPN route
