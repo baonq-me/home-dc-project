@@ -16,7 +16,7 @@ My Home DC project
   - [x] 1x 8 ports Gigabit switch
   - [x] 1x 4 ports 100Mbps switch (for iLO)
 - Power
-  - 1x Basic strip power outlet
+  - [x] Basic strip power outlet with 16A CB
 - Fan
   - Need two quite fans + powering solution
 - VPN Infrastructure
